@@ -1,0 +1,291 @@
+header{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 70%;
+    color :#A489CC  ;
+    text-align: center;
+}
+#General-Information{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#News{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Overview{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#box{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#Recommended-Reading{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Assignment-Project-Policies{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+#Late{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+#Exam{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+#Labs{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+#grades{
+    border: 15px solid #299BAF ;
+    text-align:center;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 50px;
+    color: #A489CC; 
+}
+#REMARK{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Lectures{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#slide{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Assignments{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+#info{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Course-Team{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Syllabus{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#project{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#{
+    border: 15px solid #299BAF ;
+    padding: 25px;
+    background-color: #E3FDFB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #29959C  ;
+    
+    top: 0;
+    width: 100%;
+}
+
+
+nav li {
+    float: left;
+}
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #2C80C2  ;
+    color: #21CACF ;
+}
+
+body{
+   background-color: #E1F3F5  ;
+   margin:0;
+   padding:0;
+   height:100%;
+   padding-bottom:70px;
+   font-family: Lato;
+
+}
+
+header{
+padding:20px;
+margin-top:30px;
+position: middle;
+}
+
+
+#container {
+   min-height:100%;
+   position:relative;
+}
+
+footer{
+
+position: absolute;
+bottom: 0
+width: 100%;
+height: 90px;
+color : #blue;
+background-color: #12708C;
+right: 0;
+left: 0;
+text-align: center;
+
+}
+h3 {
+ color: #330033;
+ font-size: large;
+ border-bottom: solid 5px #2FBBAA;
+}
